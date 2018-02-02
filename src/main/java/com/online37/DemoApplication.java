@@ -1,4 +1,4 @@
-package com.online37.demo;
+package com.online37;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
